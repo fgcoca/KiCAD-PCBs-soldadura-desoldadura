@@ -8,13 +8,13 @@ En este repositorio iré publicando mis cosas sobre el software de diseño de PC
 
 **Crear un proyecto con KiCad:**
 
-[Fuente](https://github.com/fgcoca/MyKiCAD/blob/master/Presentaciones/Crear%20Proyecto/Archivos%20fuente/Crear%20proyecto%20con%20KiCad.odp)
-[pdf](https://github.com/fgcoca/MyKiCAD/blob/master/Presentaciones/Crear%20Proyecto/pdfs/Crear%20proyecto%20con%20KiCad.pdf)
+[Archivo Fuente](https://github.com/fgcoca/MyKiCAD/blob/master/Presentaciones/Crear%20Proyecto/Archivos%20fuente/Crear%20proyecto%20con%20KiCad.odp)
+[Archivo pdf](https://github.com/fgcoca/MyKiCAD/blob/master/Presentaciones/Crear%20Proyecto/pdfs/Crear%20proyecto%20con%20KiCad.pdf)
 
 **Visualizar ficheros gerber en KiCad:**
 
-[Fuente](https://github.com/fgcoca/MyKiCAD/blob/master/Presentaciones/Crear%20Proyecto/Archivos%20fuente/Visualizar%20gerber%20en%20KiCad.odp)
-[pdf](https://github.com/fgcoca/MyKiCAD/blob/master/Presentaciones/Crear%20Proyecto/pdfs/Visualizar%20gerber%20en%20KiCad.pdf)
+[Archivo Fuente](https://github.com/fgcoca/MyKiCAD/blob/master/Presentaciones/Crear%20Proyecto/Archivos%20fuente/Visualizar%20gerber%20en%20KiCad.odp)
+[Archivo pdf](https://github.com/fgcoca/MyKiCAD/blob/master/Presentaciones/Crear%20Proyecto/pdfs/Visualizar%20gerber%20en%20KiCad.pdf)
 
 
 ### **Author**
