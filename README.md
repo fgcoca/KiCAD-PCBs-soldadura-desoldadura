@@ -16,6 +16,9 @@ En este repositorio iré publicando mis cosas sobre el software de diseño de PC
 [Archivo Fuente](https://github.com/fgcoca/MyKiCAD/blob/master/Presentaciones/Crear%20Proyecto/Archivos%20fuente/Visualizar%20gerber%20en%20KiCad.odp)
 [Archivo pdf](https://github.com/fgcoca/MyKiCAD/blob/master/Presentaciones/Crear%20Proyecto/pdfs/Visualizar%20gerber%20en%20KiCad.pdf)
 
+@ Placas de circuito impreso
+
+Descripción básica de los distintos tipos de placas de circuito impreso para trabajar con circuitos electrónicos.
 
 ### **Author**
 
