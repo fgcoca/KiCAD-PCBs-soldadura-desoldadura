@@ -8,6 +8,18 @@ En este repositorio iré publicando mis cosas sobre el software de diseño de PC
 
 **Crear un proyecto con KiCad:**
 
+La presentación siguiente se basa en el documento “Crear proyecto con KiCad” realizado por José García de abierto.cc, una plataforma para formadores donde compartir recursos educativos abiertos.
+
+https://abierto.cc 
+
+El documento original en pdf lo podemos encontrar en: https://abierto.cc/blog/post/5158/Empezando-a-disear-PCB/
+
+A este documento se le pueden aportar sugerencias aquí:
+
+https://docs.google.com/document/d/1d2NkisDbIFYeB7iv9PQkf9SkYmX3jAn-warP8IhUUpc/edit?usp=sharing
+
+**Presentaciones**
+
 [Archivo Fuente](https://github.com/fgcoca/MyKiCAD/blob/master/Presentaciones/Crear%20Proyecto/Archivos%20fuente/Crear%20proyecto%20con%20KiCad.odp)
 [Archivo pdf](https://github.com/fgcoca/MyKiCAD/blob/master/Presentaciones/Crear%20Proyecto/pdfs/Crear%20proyecto%20con%20KiCad.pdf)
 
