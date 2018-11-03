@@ -1,0 +1,27 @@
+Cmp-Mod V01 Created by PcbNew   date = mar 30 oct 2018 20:05:31 CET
+
+BeginCmp
+TimeStamp = 5BE51BD8
+Path = /5BD8A71F
+Reference = D1;
+ValeurCmp = LED_ALT;
+IdModule  = LED_SMD:LED_1206_3216Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BE51BEF
+Path = /5BD8AAD5
+Reference = J1;
+ValeurCmp = Screw_Terminal_01x03;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BE51C00
+Path = /5BD8A88E
+Reference = R1;
+ValeurCmp = 220;
+IdModule  = Resistor_SMD:R_1206_3216Metric;
+EndCmp
+
+EndListe
